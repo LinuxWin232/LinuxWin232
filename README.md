@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={LinuxWin232}&fontSize=90&fontAlign=50&fontAlignY=30&desc={Hi Github}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+# Hi Github
 
 ![](https://github-readme-stats.vercel.app/api?username=LinuxWin232&show_icons=true&theme=transparent)
 
